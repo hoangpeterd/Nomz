@@ -14,3 +14,9 @@ $ npm install
 ```sh
 $ node serverExample.js
 ```
+
+Open up your browser and input
+
+```sh
+localhost:3000
+```
