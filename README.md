@@ -1,19 +1,17 @@
 # Nomz
 
-This is a user login web app using Node.js and Express.
-
-
-### Usage
 
 
 ### Installation
 
-Loginapp requires [Node.js](https://nodejs.org/) v4+ to run.
+Nomz requires [Node.js](https://nodejs.org/) v4+ to run locally.
 
 ```sh
 $ npm install
 ```
 
+### Usage
+
 ```sh
-$ npm start
+$ node serverExample.js
 ```
