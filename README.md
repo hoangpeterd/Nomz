@@ -1,4 +1,5 @@
-![](https://github.com/hoangpeterd/Nomz/blob/master/public/assets/images/logo.png | width=100)
+<a href="url"><img src="https://github.com/hoangpeterd/Nomz/blob/master/public/assets/images/logo.png" align="center"  width="200" ></a>
+
 
 ### Installation
 
