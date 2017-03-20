@@ -1,7 +1,4 @@
-# Nomz
 ![alt tag](https://github.com/hoangpeterd/Nomz/blob/master/public/assets/images/logo.png)
-
-
 
 ### Installation
 
