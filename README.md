@@ -1,4 +1,4 @@
-![alt tag](https://github.com/hoangpeterd/Nomz/blob/master/public/assets/images/logo.png | width=200)
+![](https://github.com/hoangpeterd/Nomz/blob/master/public/assets/images/logo.png | width=100)
 
 ### Installation
 
